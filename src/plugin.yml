@@ -1,0 +1,5 @@
+main: io.github.sindastra.BukkitGeoIPToolsCountryJoinMessage.Main
+version: 1.0
+name: GeoIPToolsCountryJoinMessage
+prefix: CountryJoinMessage
+depend: [GeoIPTools]
