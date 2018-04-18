@@ -1,6 +1,6 @@
 /**
  * Bukkit-GeoIPTools-CountryJoinMessage
- * Copyright (C) 2016 Sindastra <https://github.com/sindastra>
+ * Copyright (C) 2016-2018 Sindastra <https://github.com/sindastra>
  * All rights reserved.
  *
  * This and the above copyright notice shall be included in
@@ -17,7 +17,7 @@
  * This software is not affiliated with Bukkit nor GeoIPTools.
  * 
  * @author Sindastra
- * @copyright Copyright (C) 2016 Sindastra. All rights reserved.
+ * @copyright Copyright (C) 2016-2018 Sindastra. All rights reserved.
  */
 
 package io.github.sindastra.BukkitGeoIPToolsCountryJoinMessage;
