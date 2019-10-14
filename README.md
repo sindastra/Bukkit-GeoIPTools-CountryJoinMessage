@@ -1,6 +1,6 @@
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W215OZB)
 
-# CountryJoinMessage
+# Sindastra's CountryJoinMessage
 
 Changes the Bukkit/Spigot join message to: 'Player joined from [Country]'.
 
